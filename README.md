@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aadil-SA22?tab=projects](https://github.com/Aadil-SA22?tab=projects)
 
-- 📝 I'm always curious about [how data drives decisions and how products move through global networks](how data drives decisions and how products move through global networks)
+- 📝 I'm always curious about how data drives decisions and how products move through global networks
 
 - 📫 How to reach me **adilshani.im22@rvce.edu.in**
 
