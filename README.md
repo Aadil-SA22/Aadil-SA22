@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently pursuing studies in **Industrial Engineering and Management at RVCE**
 
-- 🌱 I’m currently learning **SQL, Excel, Python and supply chain fundamentals**
+- 🌱 I’m  learning **SQL, Excel, Python and supply chain fundamentals**
 
 - 👯 I’m looking to collaborate on **projects involving data analytics, logistics optimization, and real-world supply chain applications**
 
