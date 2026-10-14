@@ -122,7 +122,4 @@ It's where I turn what I understand about **operations, supply chain, finance, r
 
 I'm still figuring out where these ideas lead, so suggestions are always welcome. Feel free to reach out.
 
-<p>
-  <a href="https://www.linkedin.com/in/adil-shani-akhtar-034203287/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" /></a>
-  <a href="mailto:aadilshani143@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40" /></a>
-</p>
+
